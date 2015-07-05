@@ -8,6 +8,8 @@
 	<hr>
 	<div>
 		<br>
+		<span style="background-color: red;">JUST VIEW IT . DON'T ADD NEW DATA . I WANT TO BE FAST WITH MY DEMO .</span><br><br>
+		
 		For all accounts, password is 1 (type in the ONLY number 1);<br>
 		We have 1 admin account : ktlqai@gmail.com ; -------- TO compose the factors list<br>
 		We have 1 user account : user@gmail.com ; -------- TO choose & specify points for desired factors<br>
